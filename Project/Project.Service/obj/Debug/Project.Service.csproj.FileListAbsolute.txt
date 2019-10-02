@@ -1,0 +1,16 @@
+C:\Users\Luka\Desktop\Review\Project\Project.Service\obj\Debug\Project.Service.csproj.CoreCompileInputs.cache
+C:\Users\Luka\Desktop\Review\Project\Project.Service\bin\Debug\Project.Service.dll.config
+C:\Users\Luka\Desktop\Review\Project\Project.Service\bin\Debug\Project.Service.dll
+C:\Users\Luka\Desktop\Review\Project\Project.Service\bin\Debug\Project.Service.pdb
+C:\Users\Luka\Desktop\Review\Project\Project.Service\bin\Debug\AutoMapper.dll
+C:\Users\Luka\Desktop\Review\Project\Project.Service\bin\Debug\EntityFramework.dll
+C:\Users\Luka\Desktop\Review\Project\Project.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Luka\Desktop\Review\Project\Project.Service\bin\Debug\AutoMapper.xml
+C:\Users\Luka\Desktop\Review\Project\Project.Service\bin\Debug\EntityFramework.xml
+C:\Users\Luka\Desktop\Review\Project\Project.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Luka\Desktop\Review\Project\Project.Service\obj\Debug\Project.Service.csproj.CopyComplete
+C:\Users\Luka\Desktop\Review\Project\Project.Service\obj\Debug\Project.Service.dll
+C:\Users\Luka\Desktop\Review\Project\Project.Service\obj\Debug\Project.Service.pdb
+C:\Users\Luka\Desktop\Review\Project\Project.Service\bin\Debug\PagedList.dll
+C:\Users\Luka\Desktop\Review\Project\Project.Service\bin\Debug\PagedList.xml
+C:\Users\Luka\Desktop\Review\Project\Project.Service\obj\Debug\Project.Service.csprojAssemblyReference.cache
